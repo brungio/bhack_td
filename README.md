@@ -2,7 +2,7 @@
 
 ## Table of contents
 1. [Project Description](https://github.com/neurogima/bhack_td/blob/main/README.md#project-description)
-2. [Communication Channels](Communication Channels)
+2. [Communication Channels](https://github.com/neurogima/bhack_td/blob/main/README.md#communication-channels)
 
 ## Project Description
 

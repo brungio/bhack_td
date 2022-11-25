@@ -3,6 +3,8 @@
 ## Table of contents
 1. [Project Description](https://github.com/neurogima/bhack_td/blob/main/README.md#project-description)
 2. [Communication Channels](https://github.com/neurogima/bhack_td/blob/main/README.md#communication-channels)
+3. [Goals for BrainHack Global](https://github.com/neurogima/bhack_td#goals-for-brainhack-global)
+4. [Environment preparation](https://github.com/neurogima/bhack_td#environment-preparation)
 
 ## Project Description
 
@@ -42,6 +44,6 @@ The main goal of this project is to translate the Matlab code into Python:
    - If you already have conda installed:
    `conda install --channel=conda-forge --name=base mamba`
 
-2. Download the environment file with a starting set of packages: `bh22_environment.yml`
+2. Download the environment file with a starting set of packages [bh22_environment.yml](https://raw.githubusercontent.com/neurogima/bhack_td/main/bh22_environment.yml)
 3. Install the environment for the BrainHack, using the file:
    `mamba env create -f bh22_environment.yml`

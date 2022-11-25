@@ -1,7 +1,7 @@
 # Neural encoding of acoustic and semantic features during speech and music perception: Matlab to Python code translation
 
 ## Table of contents
-1. [Project Description](Project Description)
+1. [Project Description](https://github.com/neurogima/bhack_td/blob/main/README.md#project-description)
 2. [Communication Channels](Communication Channels)
 
 ## Project Description

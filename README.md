@@ -20,4 +20,4 @@ recordings decomposed into frequency bands).
 https://mattermost.brainhack.org/brainhack/channels/brainhack_marseille_2022_speech_music_representation
 
 - [x] goal 1
-- [] goal 2
+- [ ] goal 2

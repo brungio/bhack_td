@@ -1,8 +1,8 @@
 # Neural encoding of acoustic and semantic features during speech and music perception: Matlab to Python code translation
 
 ## Table of contents
-1. [Project Description] (#Project Description)
-2. [Communication Channels] (#Communication Channels)
+1. [Project Description](##Project Description)
+2. [Communication Channels](##Communication Channels)
 
 ## Project Description
 
